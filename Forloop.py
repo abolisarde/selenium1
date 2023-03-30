@@ -35,4 +35,3 @@ iList = [10, 30, 90, 20, 60]
 for temp in range(0, 4, 2):
      print(f"Value at index {temp} is {iList[temp]}")
 
-print("A")
