@@ -1,7 +1,7 @@
 
 aTemp = [10, 30,4,6,3, 9]
 
-[20, 60,8,12,6, 18]         # element * 2
+var = [20, 60, 8, 12, 6, 18]  # element * 2
 
 result = []
 for item in aTemp:
